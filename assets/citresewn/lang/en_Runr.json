@@ -1,0 +1,26 @@
+{
+  "config.citresewn.title": "CIT ᚱᛇᛋᚩᚹᚾ ᛣᛟᚾᚠᛁᚸᛟᚱᛖᛡᛋ‍ᚳᛟᚾ",
+  "config.citresewn.configure": "ᛣᛟᚾᚠᛁᚸᛟᚱ",
+
+  "config.citresewn.enabled.title": "ᛁᚾᛖᛡᛒᛟᛚᛞ",
+  "config.citresewn.enabled.tooltip": "ᛋ‍ᚳᚣᛞ CIT ᚱᛇᛋᚩᚹᚾ ᛚᚩᚹᛞ ᚫᚾᛞ ᛁᚾᚷᛖᛣᛏ cits ᚠᚱᚩᛗ ᚱᛁᛉᚩ‍ᚩᛋᛈᚫᛣᛋ",
+
+  "config.citresewn.mute_errors.title": "ᛗᛡᚣᚹᛏ ᛚᚩᚹᛞᛁᛝ ᛖᚱᛟᚱᛋ",
+  "config.citresewn.mute_errors.tooltip": "ᛋ‍ᚳᚣᛞ CIT ᚱᛇᛋᚩᚹᚾ ᚾᚩᛏ ᛚᚩᚸ cit ᛖᚱᛟᚱᛋ",
+
+  "config.citresewn.mute_warns.title": "ᛗᛡᚣᚹᛏ ᛚᚩᚹᛞᛁᛝ ᚹᚩ‍ᚩᚱᚾᛁᛝᛋ",
+  "config.citresewn.mute_warns.tooltip": "ᛋ‍ᚳᚣᛞ CIT ᚱᛇᛋᚩᚹᚾ ᚾᚩᛏ ᛚᚩᚸ cit ᚹᚩ‍ᚩᚱᚾᛁᛝᛋ",
+
+  "config.citresewn.broken_paths.title": "ᛟᛚᚫᚹ ᛒᚱᚩᚹᛣᛟᚾ ᛈᚪᚦᛋ ᛁᚾ ᚱᛁᛉᚩ‍ᚩᛋᛈᚫᛣᛋ",
+  "config.citresewn.broken_paths.tooltip": "ᛟᛚᚫᚹᛋ ᛈᚫᛣᛋ ᚹᛁᚦ ᛁᛚᛇᚸᛟᛚ ᚱᛁᛉᚩ‍ᚩᚱᛋ ᛈᚪᚦᛋ ᛏᚣᚹ ᛚᚩᚹᛞ.\nᛗᛖᛡ ᛣᚩ‍ᚩᛉ ᛁᛋ‍ᚳᚣᚹᛋ!",
+
+  "config.citresewn.cache_ms.title": "ᛣᚫᛋ‍ᚳ",
+  "config.citresewn.cache_ms.tooltip": "ᚻᚫᚹ ᚩᚠᛏᛟᚾ ᛋ‍ᚳᚣᛞ ᚦᛇ cit ᛣᚫᛋ‍ᚳ ᛒᛇ ᚱᛁᚠᚱᛖᛋ‍ᚳᛏ.\nᚻᚫᛡᛟᚱ ᚠ‍ᚠᚫᛚᛡᚣᚹᛋ ᚹᛁᛚ ᚸᛁᚠ‍ᚠ ᛗᚩ‍ᚩᚱ ᛈᛟᚠᚩ‍ᚩᚱᛗᛟᚾᛋ.\nᛚᚩᚹᛟᚱ ᚠ‍ᚠᚫᛚᛡᚣᚹᛋ ᚹᛁᛚ ᛗᛖᛡᛣ cits ᚢᛈᛞᛖᛡᛏ ᚠᚪᛋᛏᛟᚱ.\nᚱᛠᛚᛏᚫᛡᛗ ᚹᛁᛚ ᚱᛁᛗᚣᚹᚠ‍ᚠ ᚦᛇ ᛣᚫᛋ‍ᚳ ᛁᚾᛏᚫᛡᛟᛚᛄ,\n ᛗᛖᛡᛣᛁᛝ ᚫᛡᛏᛟᛗᛋ ᚳᛖᛣ ᚠᚩ‍ᚩᚱ cits ᛖᚠ‍ᚠᚱᛄ ᚠᚱᛖᛡᛗ.",
+  "config.citresewn.cache_ms.ticks.0": "ᚱᛠᛚᛏᚫᛡᛗ",
+  "config.citresewn.cache_ms.ticks.1": "ᛖᚠ‍ᚠᚱᛄ ᛏᛁᛣ",
+  "config.citresewn.cache_ms.ticks.any": "ᛖᚠ‍ᚠᚱᛄ %s ᛏᛁᛣᛋ",
+
+
+  "pack.incompatible.broken_paths": "(ᛣᛟᚾᛏᛖᛡᚾᛋ ᛒᚱᚩᚹᛣᛟᚾ ᛈᚪᚦᛋ)",
+  "pack.incompatible.confirm.broken_paths": "ᚦᛁᛋ ᛈᚫᛣ ᛣᛟᚾᛏᛖᛡᚾᛋ ᛒᚱᚩᚹᛣᛟᚾ ᛈᚪᚦᛋ ᚫᚾᛞ ᛋᛟᛈᚩ‍ᚩᚱᛏ ᚠᚩ‍ᚩᚱ ᛁᛏ ᛗᛖᛡ ᛒᛇ ᛞᚱᚩᛈᛏ ᛁᚾ ᚦᛇ ᚠᛡᚣᚹᚳᛟᚱ. ᛣᚩᚾᛏᚫᛣᛏ ᛈᚫᛣ ᚩ‍ᚩᚦᛟᚱ ᛏᚣᚹ ᚱᛁᛗᚣᚹᚠ‍ᚠ ᚦᛁᛋ ᚹᚩ‍ᚩᚱᚾᛁᛝ. (~ CIT ᚱᛇᛋᚩᚹᚾ)"
+}

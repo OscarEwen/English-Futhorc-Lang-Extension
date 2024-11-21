@@ -1,0 +1,14 @@
+{
+  "pack": {
+    "description": "Adds English in the Anglo Futhorc Script to Minecraft",
+    "pack_format": 18,
+    "supported_formats": [18, 34]
+  },
+  "language": {
+    "en_Runr": {
+      "name": "English",
+      "region": "Anglo-Futhorc",
+      "bidirectional": false
+    }
+  }
+}
