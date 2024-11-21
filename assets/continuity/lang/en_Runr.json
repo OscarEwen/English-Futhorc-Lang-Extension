@@ -1,0 +1,13 @@
+{
+  "options.continuity.title": "ᛣᚩᚾᛏᛁᚾᛡᚣᚹᛟᛏᛄ ᛣᛟᚾᚠᛁᚸᛟᚱᛖᛡᛋ‍ᚳᛟᚾ",
+  "options.continuity.connected_textures": "ᛣᛟᚾᛖᛣᛏᛁᛞ ᛏᛟᛣᛋᚳᛟᚱᛋ",
+  "options.continuity.connected_textures.tooltip": "ᛁᚾᛖᛡᛒᛟᛚ ᚩ‍ᚩᚱ ᛞᛁᛋᛖᛡᛒᛟᛚ ᛣᛟᚾᛖᛣᛏᛁᛞ ᛏᛟᛣᛋᚳᛟᚱᛋ ᚠᚩ‍ᚩᚱ ᛒᛚᚩᛣᛋ.",
+  "options.continuity.emissive_textures": "ᛄᛗᛁᛋᛁᚠ‍ᚠ ᛏᛟᛣᛋᚳᛟᚱᛋ",
+  "options.continuity.emissive_textures.tooltip": "ᛁᚾᛖᛡᛒᛟᛚ ᚩ‍ᚩᚱ ᛞᛁᛋᛖᛡᛒᛟᛚ ᛄᛗᛁᛋᛁᚠ‍ᚠ ᛏᛟᛣᛋᚳᛟᚱᛋ ᚠᚩ‍ᚩᚱ ᛒᛚᚩᛣ ᚫᚾᛞ ᚫᛡᛏᛟᛗ ᛗᚩᛞᛟᛚᛋ.",
+  "options.continuity.custom_block_layers": "ᛣᚢᛋᛏᛟᛗ ᛒᛚᚩᛣ ᛚᛖᛡᛟᚱᛋ",
+  "options.continuity.custom_block_layers.tooltip": "ᛁᚾᛖᛡᛒᛟᛚ ᚩ‍ᚩᚱ ᛞᛁᛋᛖᛡᛒᛟᛚ ᛣᚢᛋᛏᛟᛗ ᛒᛚᚩᛣ ᛚᛖᛡᛟᚱᛋ.",
+  "resourcePack.continuity.default.name": "ᛞᛁᚠᚩᛚᛏ ᛣᛟᚾᛖᛣᛏᛁᛞ ᛏᛟᛣᛋᚳᛟᚱᛋ",
+  "resourcePack.continuity.default.description": "ᚸᛚᚪᛋ, ᛋᚫᚾᛞᛥᚩᚹᚾ, ᛒᚣᛣᛋ‍ᚳᛖᛚᚠ‍ᚠᛋ",
+  "resourcePack.continuity.glass_pane_culling_fix.name": "ᚸᛚᚪᛋ ᛈᛖᛡᚾ ᛣᚢᛚᛁᛝ ᚠᛁᛣᛋ",
+  "resourcePack.continuity.glass_pane_culling_fix.description": "ᛣᚢᛚ ᚠᛖᛡᛋ ᛒᛁᛏᚹᛇᚾ ᚸᛚᚪᛋ ᛈᛖᛡᚾᛋ"
+}
