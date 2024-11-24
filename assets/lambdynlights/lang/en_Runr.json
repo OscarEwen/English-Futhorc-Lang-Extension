@@ -1,0 +1,22 @@
+{
+    "lambdynlights.menu.light_sources": "ᛞᚫ‍ᛡᚾᚫᛗᛁᛣ ᛚᚫ‍ᛡᛏ ᛋᚩ‍ᚱᛋᛟᛉ",
+    "lambdynlights.menu.title": "LambDynamicLights ᛋᛖᛏᛁᛝᛉ",
+    "lambdynlights.menu.canvas.1": "ᛞᛁᛋᛖ‍ᛡᛒᛚᛁᛝ ᛖᚾᛏᛁᛏᛄᛉ ᛞᚫ‍ᛡᚾᚫᛗᛁᛣ ᛚᚫ‍ᛡᛏᛁᛝ ᛁᛉ ᚱᛖᛣᛟᛗᛖᚾᛞᛟᛞ ᚹᛁᚦ ᛣᚫᚾᚠ‍ᚠᛟᛋ!",
+    "lambdynlights.menu.canvas.2": "ᛞᚫ‍ᛡᚾᚫᛗᛁᛣ ᛚᚫ‍ᛡᛏᛁᛝ ᚹᛁᚦ ᛣᚫᚾᚠ‍ᚠᛟᛋ ᛁᛉ ᛣᚢᚱᛟᚾᛏᛚᛄ ᛈᛟ‍ᚱᚠᚩ‍ᚱᛗᛟᚾᛋ ᚻᛖᚠ‍ᚠᛄ!",
+    "lambdynlights.menu.tabs.general": "ᚷᛖᚾᛟᚱᛟᛚ",
+    "lambdynlights.option.light_sources.block_entities": "ᛒᛚᚩᛣ ᛖᚾᛏᛁᛏᛄᛉ",
+    "lambdynlights.option.light_sources.entities": "ᛖᚾᛏᛁᛏᛄᛉ",
+    "lambdynlights.option.light_sources.self": "ᚠᚢ‍ᚱᛋᛏ-ᛈᚢ‍ᚱᛋᛟᚾ",
+    "lambdynlights.option.light_sources.water_sensitive_check": "ᚹᚩ‍ᚩᛏᛟᚱ ᛋᛖᚾᛋᛁᛏᛁᚠ‍ᚠᛁᛏᛄ ᚳᛖᛣ",
+    "lambdynlights.option.mode": "ᛞᚫ‍ᛡᚾᚫᛗᛁᛣ ᛚᚫ‍ᛡᛏᛋ",
+    "lambdynlights.tooltip.block_entities": "ᛁᚾᛖ‍ᛡᛒᛟᛚᛉ ᛒᛚᚩᛣ ᛖᚾᛏᛁᛏᛄᛉ ᛞᚫ‍ᛡᚾᚫᛗᛁᛣ ᛚᚫ‍ᛡᛏᛁᛝ.",
+    "lambdynlights.tooltip.creeper_lighting": "ᛋᛖᛏᛋ ᚦ ᛣᚱᛇᛈᛟ‍ᚱ ᛞᚫ‍ᛡᚾᚫᛗᛁᛣ ᛚᚫ‍ᛡᛏᛁᛝ ᛗᚩ‍ᚹᛞ.\n- %ᛖᛋ ᛞᛁᛋᛖ‍ᛡᛒᛟᛚᛉ ᛣᚱᛇᛈᛟ‍ᚱ ᛞᚫ‍ᛡᚾᚫᛗᛁᛣ ᛚᚫ‍ᛡᛏᛁᛝ.\n- %ᛖᛋ ᛋᛖᛏᛋ ᛟ ᛣᚩᚾᛋᛏᛟᚾᛏ luminance.\n- %ᛖᛋ ᛋᛖᛏᛋ ᛟ ᛞᚫ‍ᛡᚾᚫᛗᛁᛣ luminance.",
+    "lambdynlights.tooltip.entities": "ᛁᚾᛖ‍ᛡᛒᛟᛚᛉ ᛖᚾᛏᛁᛏᛄᛉ ᛞᚫ‍ᛡᚾᚫᛗᛁᛣ ᛚᚫ‍ᛡᛏᛁᛝ. ᚾᚩ‍ᚹᛏ: ᛈᛚᛖ‍ᛡᛟ‍ᚱᛉ ᚪ‍ᚱ ᚩ‍ᚩᛚᚹᛖ‍ᛡᛉ ᚫᛣᛏᛁᚠ‍ᚠ.",
+    "lambdynlights.tooltip.mode.1": "ᛁᚾᛖ‍ᛡᛒᛟᛚᛉ ᛞᚫ‍ᛡᚾᚫᛗᛁᛣ ᛚᚫ‍ᛡᛏᛋ. ᛁᚠ ᛁᚾᛖ‍ᛡᛒᛟᛚᛞ ᛟ ᛈᛚᛖ‍ᛡᛟ‍ᚱ ᚻᚩ‍ᚹᛚᛞᛁᛝ ᛟ ᛏᚩ‍ᚱᚳ ᚹᛁᛚ ᛚᚫ‍ᛡᛏ ᚢᛈ ᚦ ᛖ‍ᚱᛠ ᚠ ᛁᚸᛉᚫᛗᛈᛟᛚ.",
+    "lambdynlights.tooltip.mode.2": "%ᛖᛋ ᚾ %ᛖᛋ ᚹᛁᛚ ᛚᚫᚸ ᛟ ᛒᛁᛏ ᛒᛁᚻᚫ‍ᛡᚾᛞ ᛒᚢᛏ ᛗᛁᚾᛁᛗᚫ‍ᛡᛉᛟᛉ ᛚᚫ‍ᛡᛏ ᚢᛈᛞᛖ‍ᛡᛏᛋ.",
+    "lambdynlights.tooltip.mode.3": "%ᛖᛋ ᛁᛉ ᛋᛗᚣ‍ᚹᚦ ᛞᚫ‍ᛡᚾᚫᛗᛁᛣ ᛚᚫ‍ᛡᛏᛁᛝ.",
+    "lambdynlights.tooltip.self_light_source": "ᛁᚾᛖ‍ᛡᛒᛟᛚᛉ ᚠᚢ‍ᚱᛋᛏ-ᛈᚢ‍ᚱᛋᛟᚾ ᛞᚫ‍ᛡᚾᚫᛗᛁᛣ ᛚᚫ‍ᛡᛏᛁᛝ. ᛁᛏ'ᛖᛋ ᚱᛖᛣᛟᛗᛖᚾᛞᛟᛞ ᛏ ᛞᛁᛋᛖ‍ᛡᛒᛟᛚ ᚦᛁᛋ ᛁᚠ ᛡᚣ‍ᚹ'ᚱᛇ ᛡᚣ‍ᚹᛉᛁᛝ ᛋ‍ᚳᛖ‍ᛡᛞᛟ‍ᚱᛉ ᚦᚫᛏ ᚻᚫᛉ ᚦᛖ‍ᚱ ᚩ‍ᚹᚾ ᛞᚫ‍ᛡᚾᚫᛗᛁᛣ ᛚᚫ‍ᛡᛏᛁᛝ.",
+    "lambdynlights.tooltip.tnt_lighting": "ᛋᛖᛏᛋ ᚦ ᛏᛇᛖᚾᛏᛇ ᛞᚫ‍ᛡᚾᚫᛗᛁᛣ ᛚᚫ‍ᛡᛏᛁᛝ ᛗᚩ‍ᚹᛞ.\n- %ᛖᛋ ᛞᛁᛋᛖ‍ᛡᛒᛟᛚᛉ ᛏᛇᛖᚾᛏᛇ ᛞᚫ‍ᛡᚾᚫᛗᛁᛣ ᛚᚫ‍ᛡᛏᛁᛝ.\n- %ᛖᛋ ᛋᛖᛏᛋ ᛟ ᛣᚩᚾᛋᛏᛟᚾᛏ luminance.\n- %ᛖᛋ ᛋᛖᛏᛋ ᛟ ᛞᚫ‍ᛡᚾᚫᛗᛁᛣ luminance.",
+    "lambdynlights.tooltip.water_sensitive": "ᛁᚾᛖ‍ᛡᛒᛟᛚᛉ ᚦ ᚹᚩ‍ᚩᛏᛟᚱ-ᛋᛖᚾᛋᛁᛏᛁᚠ‍ᚠ ᛚᚫ‍ᛡᛏ ᛋᚩ‍ᚱᛋᛟᛉ ᚳᛖᛣ. ᚦᛁᛋ ᛗᛇᚾᛉ ᚦᚫᛏ ᛋᚢᛗ ᚫ‍ᛡᛏᛟᛗᛉ ᚹᛁᛚ ᚾᚩᛏ ᛁᛗᛁᛏ ᛚᚫ‍ᛡᛏ ᚹᚫ‍ᛡᛚ ᛒᛇᛁᛝ ᛋᛟᛒᛗᚢ‍ᚱᚷᛞ ᛁᚾ ᚹᚩ‍ᚩᛏᛟᚱ.",
+    "modmenu.bluesky": "ᛒᛚᚣ‍ᚹᛋᛣᚫ‍ᛡ"
+}

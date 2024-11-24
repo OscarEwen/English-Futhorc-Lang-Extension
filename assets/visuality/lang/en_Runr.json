@@ -1,0 +1,20 @@
+{
+    "modmenu.descriptionTranslation.visuality": "ᛚᛁᛏᛟᛚ ᚠ‍ᚠᛁᛉ‍ᚳᚣᛟᛚ ᛁᛗᛈᚱᚣ‍ᚹᚠ‍ᚠᛗᛟᚾᛏᛋ ᛒᚫ‍ᛡ ᚫᛞᛁᛝ ᛟ ᛒᚢᚾᚳ ᚠ‍ᚠ ᚾᛡᚣ‍ᚹ ᛈᚪ‍ᚱᛏᛁᛣᛟᛚᛉ.",
+    "config.visuality.title": "Visuality Config",
+    "config.visuality.general": "ᚷᛖᚾᛟᚱᛟᛚ",
+    "config.visuality.option.slime": "ᛋᛚᚫ‍ᛡᛗ ᛒᛚᚩᛒᛉ ᛁᚾᛖ‍ᛡᛒᛟᛚᛞ",
+    "config.visuality.option.slime.color": "ᛋᛚᚫ‍ᛡᛗ ᛒᛚᚩᛒᛉ ᛣᚢᛚᛟ‍ᚱ",
+    "config.visuality.option.charge": "ᚳᚪ‍ᚱᚷ ᛈᚪ‍ᚱᛏᛁᛣᛟᛚ ᛁᚾᛖ‍ᛡᛒᛟᛚᛞ",
+    "config.visuality.option.sparkle": "ᛋᛈᚪ‍ᚱᛣᛟᛚ ᛈᚪ‍ᚱᛏᛁᛣᛟᛚ ᛁᚾᛖ‍ᛡᛒᛟᛚᛞ",
+    "config.visuality.option.soul": "ᛋᚩ‍ᚹᛚ ᛈᚪ‍ᚱᛏᛁᛣᛟᛚ ᛁᚾᛖ‍ᛡᛒᛟᛚᛞ",
+    "config.visuality.option.waterCircle": "ᚹᚩ‍ᚩᛏᛟᚱ ᛋᚢ‍ᚱᛣᛟᛚᛉ ᛁᚾᛖ‍ᛡᛒᛟᛚᛞ",
+    "config.visuality.option.waterCircle.colored": "ᚹᚩ‍ᚩᛏᛟᚱ ᛋᚢ‍ᚱᛣᛟᛚᛉ ᛣᚢᛚᛟ‍ᚱᛞ",
+    "config.visuality.option.waterCircle.density": "ᚹᚩ‍ᚩᛏᛟᚱ ᛋᚢ‍ᚱᛣᛟᛚᛉ ᛞᛖᚾᛋᛁᛏᛄ",
+    "config.visuality.option.waterCircle.radius": "ᚹᚩ‍ᚩᛏᛟᚱ ᛋᚢ‍ᚱᛣᛟᛚᛉ ᚱᛖ‍ᛡᛞᛠᛋ",
+    "config.visuality.option.hitParticles": "ᚻᛁᛏ ᛈᚪ‍ᚱᛏᛁᛣᛟᛚᛉ ᛁᚾᛖ‍ᛡᛒᛟᛚᛞ",
+    "config.visuality.option.hitParticles.entries": "ᚻᛁᛏ ᛈᚪ‍ᚱᛏᛁᛣᛟᛚᛉ ᛖᚾᛏᚱᛄᛉ",
+    "config.visuality.option.shinyArmor": "ᛋ‍ᚳᚫ‍ᛡᚾᛄ ᚪ‍ᚱᛗᛟ‍ᚱ ᛁᚾᛖ‍ᛡᛒᛟᛚᛞ",
+    "config.visuality.option.shinyArmor.entries": "ᛋ‍ᚳᚫ‍ᛡᚾᛄ ᚪ‍ᚱᛗᛟ‍ᚱ ᛖᚾᛏᚱᛄᛉ",
+    "config.visuality.option.shinyBlocks": "ᛋ‍ᚳᚫ‍ᛡᚾᛄ ᛒᛚᚩᛣᛋ ᛁᚾᛖ‍ᛡᛒᛟᛚᛞ",
+    "config.visuality.option.shinyBlocks.entries": "ᛋ‍ᚳᚫ‍ᛡᚾᛄ ᛒᛚᚩᛣᛋ ᛖᚾᛏᚱᛄᛉ"
+}

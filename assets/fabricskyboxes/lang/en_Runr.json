@@ -1,0 +1,8 @@
+{
+    "category.fabricskyboxes": "FabricSkyBoxes",
+    "key.fabricskyboxes.toggle": "ᛏᚩᚸᛟᛚ FabricSkyBoxes",
+    "fabricskyboxes.message.enabled": "FabricSkyBoxes ᛁᚾᛖ‍ᛡᛒᛟᛚᛞ!",
+    "fabricskyboxes.message.disabled": "FabricSkyBoxes ᛞᛁᛋᛖ‍ᛡᛒᛟᛚᛞ!",
+    "key.fabricskyboxes.toggle.debug_hud": "ᛏᚩᚸᛟᛚ ᛞᛇᛒᚢᚸ Hud",
+    "key.fabricskyboxes.toggle.debug_screen": "ᛏᚩᚸᛟᛚ ᛞᛇᛒᚢᚸ ᛋᛣᚱᛇᚾ"
+}

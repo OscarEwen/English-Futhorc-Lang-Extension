@@ -1,11 +1,11 @@
 {
-  "options.capes.title": "ᛣᛖᛡᛈ ᚩᛈᛋ‍ᚳᛟᚾᛋ",
-  "options.capes.capetype": "ᛣᛖᛡᛈ ᛏᚫᛡᛈ: %s",
-  "options.capes.optifineeditor": "ᚩᛈᛏᛁᚠᚫᛡᚾ ᛣᛖᛡᛈ ᛖᛞᛁᛏᛟᚱ",
-  "options.capes.elytra": "ᛣᛖᛡᛈ ᛏᛟᛣᛋᚳᛟᚱ ᚩᚾ ᛄᛚᛁᛏᚱᚪ",
-  "options.capes.selector": "ᛣᛖᛡᛈ ᛋᛁᛚᛖᛣᛏᛟᚱ",
-  "options.capes.toggle": "ᛏᚩᚸᛟᛚ",
-  "options.capes.other": "ᚢᚦᛟᚱ",
-  "options.capes.selector.elytra": "ᛏᚩᚸᛟᛚ ᛄᛚᛁᛏᚱᚪ",
-  "options.capes.selector.player": "ᛏᚩᚸᛟᛚ ᛈᛚᛖᛡᛟᚱ"
+    "options.capes.title": "ᛣᛖ‍ᛡᛈ ᚩᛈᛋ‍ᚳᛟᚾᛉ",
+    "options.capes.capetype": "ᛣᛖ‍ᛡᛈ ᛏᚫ‍ᛡᛈ: %ᛖᛋ",
+    "options.capes.optifineeditor": "OptiFine ᛣᛖ‍ᛡᛈ ᛖᛞᛁᛏᛟ‍ᚱ",
+    "options.capes.elytra": "ᛣᛖ‍ᛡᛈ ᛏᛖᛣᛋᚳᛟ‍ᚱ ᚩᚾ Elytra",
+    "options.capes.selector": "ᛣᛖ‍ᛡᛈ ᛋᛁᛚᛖᛣᛏᛟ‍ᚱ",
+    "options.capes.toggle": "ᛏᚩᚸᛟᛚ",
+    "options.capes.other": "ᚢᚦᛟ‍ᚱ",
+    "options.capes.selector.elytra": "ᛏᚩᚸᛟᛚ Elytra",
+    "options.capes.selector.player": "ᛏᚩᚸᛟᛚ ᛈᛚᛖ‍ᛡᛟ‍ᚱ"
 }

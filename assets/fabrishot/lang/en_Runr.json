@@ -1,0 +1,16 @@
+{
+    "fabrishot.config.title": "Fabrishot",
+    "fabrishot.config.category": "ᛋᛣᚱᛇᚾᛋ‍ᚳᚩᛏ ᛣᛟᚾᚠᛁᚸᛟᚱᛖ‍ᛡᛋ‍ᚳᛟᚾ",
+    "fabrishot.config.custom_file_name": "ᛡᚣ‍ᚹᛋ ᛞᛁᚠᛟᚱᛟᚾᛏ ᚠᚫ‍ᛡᛚᚾᛖ‍ᛡᛗ ᚠᚩ‍ᚱᛗᚫᛏ",
+    "fabrishot.config.custom_file_name.tooltip": "ᛡᚣ‍ᚹᛋ %ᛏᚫ‍ᛡᛗ% ᚠ ᚦ ᛏᚫ‍ᛡᛗ,\n %ᚹᚢ‍ᚱᛚᛞ% ᚠ ᚹᚢ‍ᚱᛚᛞ ᚩ‍ᚱ ᛋᚢ‍ᚱᚠ‍ᚠᛟ‍ᚱ ᚾᛖ‍ᛡᛗ",
+    "fabrishot.config.override_screenshot_key": "ᚩ‍ᚹᚠ‍ᚠᛟ‍ᚱᚱᚫ‍ᛡᛞ ᚾᚩ‍ᚱᛗᛟᛚ ᛋᛣᚱᛇᚾᛋ‍ᚳᚩᛏ ᚹᛁᚦ Fabrishot",
+    "fabrishot.config.hide_hud": "ᚩ‍ᚩᛏᛟᛗᚫᛏᛁᛣᛚᛄ ᚻᚫ‍ᛡᛞ ᚦ HUD",
+    "fabrishot.config.save_file": "ᛋᛖ‍ᛡᚠ‍ᚠ ᚦ ᛋᛣᚱᛇᚾᛋ‍ᚳᚩᛏ ᚠᚫ‍ᛡᛚ",
+    "fabrishot.config.disable_gui_scaling": "ᛞᛁᛋᛖ‍ᛡᛒᛟᛚ GUI ᛋᛣᛖ‍ᛡᛚᛁᛝ",
+    "fabrishot.config.width": "ᛋᛣᚱᛇᚾᛋ‍ᚳᚩᛏ ᚹᛁᛞᚦ",
+    "fabrishot.config.height": "ᛋᛣᚱᛇᚾᛋ‍ᚳᚩᛏ ᚻᚫ‍ᛡᛏ",
+    "fabrishot.config.delay": "ᛣᚫᛈᚳᛟ‍ᚱ ᛞᛁᛚᛖ‍ᛡ",
+    "fabrishot.config.delay.tooltip": "ᚠᚱᛖ‍ᛡᛗᛉ ᛏ ᚹᛖ‍ᛡᛏ ᚫᚠᛏᛟ‍ᚱ ᚱᛇᛋᚫ‍ᛡᛉᛁᛝ. ᛏᚹᛇᛣ ᚠ ᛒᛖᛏᛟ‍ᚱ ᛁᛣᛋᛈᚩ‍ᚹᛉ‍ᚳᛟ‍ᚱ ᚹᛁᚦ ᛋ‍ᚳᛖ‍ᛡᛞᛟ‍ᚱᛉ",
+    "fabrishot.config.file_format": "ᚠᚫ‍ᛡᛚ ᚠᚩ‍ᚱᛗᚫᛏ",
+    "key.fabrishot.screenshot": "ᛏᛖ‍ᛡᛣ ᛚᚪ‍ᚱᚷ ᛋᛣᚱᛇᚾᛋ‍ᚳᚩᛏ"
+}

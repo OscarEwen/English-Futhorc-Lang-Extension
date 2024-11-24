@@ -1,0 +1,18 @@
+{
+    "text.autoconfig.PaginatedAdvancements.title": "Paginated Advancements Config",
+    "text.autoconfig.PaginatedAdvancements.option.FadeOutBackgroundOnAdvancementHover": "ᚠᛖ‍ᛡᛞ ᚦ ᛒᚫᛣᚸᚱᚫ‍ᚹᚾᛞ ᛋᛚᚫ‍ᛡᛏᛚᛄ ᚸᚱᛖ‍ᛡ ᚹᛖᚾ ᚻᚩᚠ‍ᚠᛟᚱᛁᛝ ᚩ‍ᚹᚠ‍ᚠᛟ‍ᚱ ᛟᚾ ᛟᛞᚠ‍ᚠᚫᚾᛋᛗᛟᚾᛏ",
+    "text.autoconfig.PaginatedAdvancements.option.PinnedTabs": "ᛚᛁᛋᛏ ᚠ‍ᚠ ᛈᛁᚾᛞ ᛏᚫᛒᛉ (ᚱᚣ‍ᚹᛏ ᛟᛞᚠ‍ᚠᚫᚾᛋᛗᛟᚾᛏ ᚫ‍ᛡᛞᛖᚾᛏᛁᚠᚫ‍ᛡᛟ‍ᚱ)",
+    "text.autoconfig.PaginatedAdvancements.option.SaveLastSelectedTab": "ᛋᛖ‍ᛡᚠ‍ᚠ ᚾ ᚱᛁᛋᛏᚩ‍ᚱ ᚦ ᛚᚫᛋᛏ ᛋᛁᛚᛖᛣᛏᛟᛞ ᛏᚫᛒ",
+    "text.autoconfig.PaginatedAdvancements.option.LastSelectedTab": "ᚦ ᚫ‍ᛡᛞᛖᚾᛏᛁᚠᚫ‍ᛡᛟ‍ᚱ ᚠ‍ᚠ ᚦ ᛚᚫᛋᛏ ᛋᛁᛚᛖᛣᛏᛟᛞ ᛏᚫᛒ",
+    "text.autoconfig.PaginatedAdvancements.option.SpacingBetweenHorizontalTabs": "ᛋᛈᛖ‍ᛡᛋᛁᛝ ᛒᛁᛏᚹᛇᚾ ᚻᚩᚱᛁᛉᚩᚾᛏᛟᛚ ᛏᚫᛒᛉ",
+    "text.autoconfig.PaginatedAdvancements.option.SpacingBetweenPinnedTabs": "ᛋᛈᛖ‍ᛡᛋᛁᛝ ᛒᛁᛏᚹᛇᚾ ᛈᛁᚾᛞ ᛏᚫᛒᛉ",
+    "text.autoconfig.PaginatedAdvancements.option.ShowDebugInfo": "ᛋ‍ᚳᚩ‍ᚹ ᛞᛇᛒᚢᚸ ᛁᚾᚠᚩ‍ᚹ ᚩᚾ ᛟᛞᚠ‍ᚠᚫᚾᛋᛗᛟᚾᛏ ᚻᚩᚠ‍ᚠᛟ‍ᚱ",
+    "text.autoconfig.PaginatedAdvancements.option.MaxCriterionEntries": "ᛗᚫᛣᛋ ᛞᛁᛋᛈᛚᛖ‍ᛡᛞ ᛟᛞᚠ‍ᚠᚫᚾᛋᛗᛟᚾᛏ ᛣᚱᚫ‍ᛡᛏᛠᚱᛠᚾ ᛖᚾᛏᚱᛄᛉ",
+    "text.autoconfig.PaginatedAdvancements.option.PinningEnabled": "ᛁᚾᛖ‍ᛡᛒᛟᛚ ᛈᛁᚾᛁᛝ ᚠ‍ᚠ ᛟᛞᚠ‍ᚠᚫᚾᛋᛗᛟᚾᛏ ᛏᚫᛒᛉ",
+    "text.autoconfig.PaginatedAdvancements.option.ShowAdvancementIDInDebugTooltip": "ᛋ‍ᚳᚩ‍ᚹ ᛟᛞᚠ‍ᚠᚫᚾᛋᛗᛟᚾᛏ ᛁᛞ ᛁᚾ ᛞᛇᛒᚢᚸ tooltip",
+    "text.paginated_advancements.copied_to_clipboard": "ᛣᚩᛈᛄᛞ ᛟᛞᚠ‍ᚠᚫᚾᛋᛗᛟᚾᛏ ᛁᛞ ᛏ ᛣᛚᛁᛈᛒᚩ‍ᚱᛞ",
+    "text.paginated_advancements.group": "ᚸᚱᚣ‍ᚹᛈ: ",
+    "text.paginated_advancements.copy_to_clipboard": "(Ctrl+ᛋᛇ ᛏ ᛣᚩᛈᛄ)",
+    "text.paginated_advancements.expand_debug": "[ᛋ‍ᚳᛁᚠᛏ] ᛗᚩ‍ᚱ...",
+    "text.paginated_advancements.scroll_debug": "[ᛋᛣᚱᚩ‍ᚹᛚ] ᛗᚩ‍ᚱ..."
+}
