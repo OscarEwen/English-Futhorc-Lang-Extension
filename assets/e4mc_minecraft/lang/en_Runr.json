@@ -1,5 +1,5 @@
 {
-    "text.e4mc_minecraft.domainAssigned": "ᛚᚩ‍ᚹᛣᛟᛚ ᚸᛖ‍ᛡᛗ ᚻᚩ‍ᚹᛋᛏᛟᛞ ᚩᚾ ᛞᚩ‍ᚹᛗᛖ‍ᛡᚾ [%ᛖᛋ]",
+    "text.e4mc_minecraft.domainAssigned": "ᛚᚩ‍ᚹᛣᛟᛚ ᚸᛖ‍ᛡᛗ ᚻᚩ‍ᚹᛋᛏᛟᛞ ᚩᚾ ᛞᚩ‍ᚹᛗᛖ‍ᛡᚾ [%s]",
     "text.e4mc_minecraft.closeServer": "ᛚᚩ‍ᚹᛣᛟᛚ ᚸᛖ‍ᛡᛗ ᚾᚩ‍ᚹ ᛚᚩᛝᚸᛟ‍ᚱ ᛈᚢᛒᛚᛁᛣᛚᛄ ᚻᚩ‍ᚹᛋᛏᛟᛞ",
     "text.e4mc_minecraft.serverAlreadyClosed": "ᛚᚩ‍ᚹᛣᛟᛚ ᚸᛖ‍ᛡᛗ ᚾᚩᛏ ᛈᚢᛒᛚᛁᛣᛚᛄ ᚻᚩ‍ᚹᛋᛏᛟᛞ",
     "text.e4mc_minecraft.clickToStop": " (ᛣᛚᛁᛣ ᚻᛠᚱ ᛏ ᛋᛏᚩᛈ)",

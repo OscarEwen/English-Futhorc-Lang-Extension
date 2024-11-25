@@ -11,7 +11,7 @@
     "config.dynamic_fps.category.abandoned": "ᚫ‍ᛡᛞᛟᛚ",
     "config.dynamic_fps.enabled": "ᛁᚾᛖ‍ᛡᛒᛟᛚᛞ",
     "config.dynamic_fps.disabled": "ᛞᛁᛋᛖ‍ᛡᛒᛟᛚᛞ",
-    "config.dynamic_fps.minutes": "%ᛞᛇ ᛗᛁᚾᛁᛏ(ᛖᛋ)",
+    "config.dynamic_fps.minutes": "%d ᛗᛁᚾᛁᛏ(ᛖᛋ)",
     "config.dynamic_fps.idle_time": "ᚫ‍ᛡᛞᛟᛚ timeout",
     "config.dynamic_fps.idle_time_tooltip": "ᛗᛁᚾᛁᛏᛋ ᚹᛁᚦᚫ‍ᚹᛏ ᛁᚾᛈᚣᛏ ᛟᚾᛏᛁᛚ ᛞᚫ‍ᛡᚾᚫᛗᛁᛣ FPS ᚫᛣᛏᛁᚠ‍ᚠᛖ‍ᛡᛏᛋ ᚦ ᚫ‍ᛡᛞᛟᛚ ᛋᛏᛖ‍ᛡᛏ ᚹᚫ‍ᛡᛚ ᚦ ᚸᛖ‍ᛡᛗ ᛁᛉ ᚠᚩ‍ᚹᛣᛟᛋᛏ.",
     "config.dynamic_fps.idle_condition": "ᚫ‍ᛡᛞᛟᛚ ᛣᛟᚾᛞᛁᛋ‍ᚳᛟᚾ",
@@ -68,6 +68,6 @@
     "toast.dynamic_fps.battery_charging": "ᚳᚪ‍ᚱᚷᛁᛝ!",
     "toast.dynamic_fps.battery_draining": "ᛞᛁᛋᚳᚪ‍ᚱᚷᛁᛝ!",
     "toast.dynamic_fps.battery_critical": "ᛒᚫᛏᛟᚱᛄ ᛚᚩ‍ᚹ!",
-    "toast.dynamic_fps.battery_charge": "ᛣᚢᚱᛟᚾᛏᛚᛄ ᚫᛏ %ᛞᛇ%%",
+    "toast.dynamic_fps.battery_charge": "ᛣᚢᚱᛟᚾᛏᛚᛄ ᚫᛏ %d%%",
     "modmenu.descriptionTranslation.dynamic_fps": "ᚱᛁᛞᛡᚣ‍ᚹᛋ ᚱᛁᛉᚩ‍ᚱᛋ ᛡᚣ‍ᚹᛋᛁᚷ ᚹᚫ‍ᛡᛚ ᛗᚫ‍ᛡᚾᛣᚱᚫᚠᛏ ᛁᛉ ᛁᚾ ᚦ ᛒᚫᛣᚸᚱᚫ‍ᚹᚾᛞ ᚩ‍ᚱ ᚫ‍ᛡᛞᛟᛚ."
 }

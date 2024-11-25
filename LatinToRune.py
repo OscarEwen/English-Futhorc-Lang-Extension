@@ -40,12 +40,17 @@ for langaugeFilePath in languages:
         # for every key value pair
         for key, value in languageJson.items():
             replaceValue = value
-            words = set(re.findall(r'(?<!\$)\b\w+\b', value))
+            words = set(re.findall(r'(?<!\$|\%|\'|@|/)\b[A-Za-z]+\b(?!\')', value))
 
             # check each word
             for word in words:
-                print(word)
                 replaceWord = runeSeries.get(str.lower(word))
+
+                if replaceWord is None:
+                    replaceWord = runeSeries.get(str.upper(word))
+                
+                if replaceWord is None:
+                    replaceWord = runeSeries.get(str.capitalize(word))
                 
                 # and replace if runic alternative is found
                 if replaceWord is not None:
@@ -62,7 +67,6 @@ for langaugeFilePath in languages:
         # separatedPath
         separatedPath[-1] = "en_Runr.json"
         newPath = "/".join(separatedPath)
-        print(newPath)
         with open(newPath, "w", encoding='utf8') as output:
             json.dump(languageJson, output, ensure_ascii=False, indent=4)
 

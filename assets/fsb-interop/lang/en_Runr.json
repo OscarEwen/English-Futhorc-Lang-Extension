@@ -1,19 +1,19 @@
 {
     "options.fsb-interop.title": "FabricSkyBoxes Interop ᛣᛟᚾᚠᛁᚸᛟᚱᛖ‍ᛡᛋ‍ᚳᛟᚾ",
     "options.fsb-interop.interoperability": "ᛁᚾᛏᛟᚱᚩᛈᛟᚱᛟᛒᛁᛚᛁᛏᛄ",
-    "options.fsb-interop.interoperability.tooltip": "ᛁᚠ ᛁᚾᛖ‍ᛡᛒᛟᛚᛞ, ᚦ ᛗᚩᛞ ᚹᛁᛚ ᛟᛏᛖᛗᛈᛏ ᛏ ᚱᛇᛞ/ᛚᚩ‍ᚹᛞ MCPatcher/OptiFine ᛣᚢᛋᛏᛟᛗ ᛋᛣᚫ‍ᛡᛉ.",
+    "options.fsb-interop.interoperability.tooltip": "ᛁᚠ ᛁᚾᛖ‍ᛡᛒᛟᛚᛞ, ᚦ ᛗᚩᛞ ᚹᛁᛚ ᛟᛏᛖᛗᛈᛏ ᛏ ᚱᛇᛞ/load MCPatcher/OptiFine ᛣᚢᛋᛏᛟᛗ ᛋᛣᚫ‍ᛡᛉ.",
     "options.fsb-interop.mode": "Interop ᛗᚩ‍ᚹᛞ",
     "options.fsb-interop.mode.tooltip": "- ᚾᛖ‍ᛡᛏᛁᚠ‍ᚠ: ᛡᚣ‍ᚹᛉᛟᛉ ᛟ reimplementation ᚠ‍ᚠ OptiFine.\n- ᛣᛟᚾᚠ‍ᚠᚢ‍ᚱᛉ‍ᚳᛟᚾ: ᛣᛟᚾᚠ‍ᚠᚢ‍ᚱᛏᛋ OptiFine ᚠᚩ‍ᚱᛗᚫᛏ ᛏ FabricSkyBoxes ᛁᚸᛉᛁᛋᛏᛁᛝ ᛋᛣᚫ‍ᛡ ᛏᚫ‍ᛡᛈᛋ.",
     "options.fsb-interop.mode.native": "ᚾᛖ‍ᛡᛏᛁᚠ‍ᚠ",
     "options.fsb-interop.mode.conversion": "ᛣᛟᚾᚠ‍ᚠᚢ‍ᚱᛉ‍ᚳᛟᚾ",
     "options.fsb-interop.process_optifine": "ᛈᚱᚩ‍ᚹᛋᛖᛋ OptiFine",
-    "options.fsb-interop.process_optifine.tooltip": "ᛁᚠ ᛁᚾᛖ‍ᛡᛒᛟᛚᛞ, ᚦ ᛗᚩᛞ ᚹᛁᛚ ᛟᛏᛖᛗᛈᛏ ᛏ ᚱᛇᛞ/ᛚᚩ‍ᚹᛞ OptiFine ᛣᚢᛋᛏᛟᛗ ᛋᛣᚫ‍ᛡᛉ.",
+    "options.fsb-interop.process_optifine.tooltip": "ᛁᚠ ᛁᚾᛖ‍ᛡᛒᛟᛚᛞ, ᚦ ᛗᚩᛞ ᚹᛁᛚ ᛟᛏᛖᛗᛈᛏ ᛏ ᚱᛇᛞ/load OptiFine ᛣᚢᛋᛏᛟᛗ ᛋᛣᚫ‍ᛡᛉ.",
     "options.fsb-interop.process_mcpatcher": "ᛈᚱᚩ‍ᚹᛋᛖᛋ MCPatcher",
-    "options.fsb-interop.process_mcpatcher.tooltip": "ᛁᚠ ᛁᚾᛖ‍ᛡᛒᛟᛚᛞ, ᚦ ᛗᚩᛞ ᚹᛁᛚ ᛟᛏᛖᛗᛈᛏ ᛏ ᚱᛇᛞ/ᛚᚩ‍ᚹᛞ MCPatcher ᛣᚢᛋᛏᛟᛗ ᛋᛣᚫ‍ᛡᛉ.",
+    "options.fsb-interop.process_mcpatcher.tooltip": "ᛁᚠ ᛁᚾᛖ‍ᛡᛒᛟᛚᛞ, ᚦ ᛗᚩᛞ ᚹᛁᛚ ᛟᛏᛖᛗᛈᛏ ᛏ ᚱᛇᛞ/load MCPatcher ᛣᚢᛋᛏᛟᛗ ᛋᛣᚫ‍ᛡᛉ.",
     "options.fsb-interop.debug_mode": "ᛞᛇᛒᚢᚸ ᛗᚩ‍ᚹᛞ",
     "options.fsb-interop.debug_mode.tooltip": "ᛁᚠ ᛁᚾᛖ‍ᛡᛒᛟᛚᛞ, ᚦ ᛗᚩᛞ ᚹᛁᛚ ᚫ‍ᚹᛏᛈᚣᛏ ᛣᛟᚾᚠ‍ᚠᚢ‍ᚱᛉ‍ᚳᛟᚾ ᚱᛁᛉᚢᛚᛏᛋ ᚾ ᛖᚱᛟ‍ᚱ ᛚᚩᚸᛉ ᛁᚾ ᛣᛟᚾᚠ‍ᚠᚢ‍ᚱᛉ‍ᚳᛟᚾ ᛈᚱᚩ‍ᚹᛋᛖᛋ.",
     "options.fsb-interop.prefer_fsb_native": "ᛈᚱᛁᚠᚢ‍ᚱ FSB ᚾᛖ‍ᛡᛏᛁᚠ‍ᚠ",
-    "options.fsb-interop.prefer_fsb_native.tooltip": "ᛁᚠ ᛁᚾᛖ‍ᛡᛒᛟᛚᛞ, ᚦ ᛗᚩᛞ ᚹᛁᛚ ᚾᚩᛏ ᛈᚱᚩ‍ᚹᛋᛖᛋ/ᛣᛟᚾᚠ‍ᚠᚢ‍ᚱᛏ MCPatcher/OptiFine ᛁᚠ FSB ᛋᛣᚫ‍ᛡᛉ ᚪ‍ᚱ ᛞᛁᛏᛖᛣᛏᛟᛞ.",
+    "options.fsb-interop.prefer_fsb_native.tooltip": "ᛁᚠ ᛁᚾᛖ‍ᛡᛒᛟᛚᛞ, ᚦ ᛗᚩᛞ ᚹᛁᛚ ᚾᚩᛏ ᛈᚱᚩ‍ᚹᛋᛖᛋ/convert MCPatcher/OptiFine ᛁᚠ FSB ᛋᛣᚫ‍ᛡᛉ ᚪ‍ᚱ ᛞᛁᛏᛖᛣᛏᛟᛞ.",
     "options.fsb-interop.dump_data": "ᛞᚢᛗᛈ ᛞᛖ‍ᛡᛏᛟ",
     "options.fsb-interop.dump_data.tooltip": "ᛞᚢᛗᛈ ᛣᛟᚾᚠ‍ᚠᚢ‍ᚱᛏᛟᛞ ᛋᛣᚫ‍ᛡᛉ ᚠᚱᚩᛗ FSB Interop ᛏ \".ᛗᚫ‍ᛡᚾᛣᚱᚫᚠᛏ/fsb-interop-ᛞᚢᛗᛈ\" ᚾ ᚩ‍ᚹᛈᛟᚾ ᚦ ᛞᛁᚱᛖᛣᛏᛟᚱᛄ. (ᚾᚩ‍ᚹᛏ: ᚦ ᛟᚱᛁᚷᛁᚾᛟᛚ ᛞᛁᚱᛖᛣᛏᛟᚱᛄ ᚹᛁᛚ ᛒᛇ ᛞᛁᛚᛇᛏᛟᛞ.)"
 }

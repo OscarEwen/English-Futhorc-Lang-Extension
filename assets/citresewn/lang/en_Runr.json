@@ -13,7 +13,7 @@
     "config.citresewn.cache_ms.tooltip": "ᚻᚫ‍ᚹ ᚩᚠᛟᚾ ᛋ‍ᚳᚣᛞ ᚦ cit ᛣᚫᛋ‍ᚳ ᛒᛇ ᚱᛁᚠᚱᛖᛋ‍ᚳᛏ.\nᚻᚫ‍ᛡᛟ‍ᚱ ᚠ‍ᚠᚫᛚᛡᚣ‍ᚹᛉ ᚹᛁᛚ ᚸᛁᚠ‍ᚠ ᛗᚩ‍ᚱ ᛈᛟ‍ᚱᚠᚩ‍ᚱᛗᛟᚾᛋ.\nᛚᚩ‍ᚹᛟ‍ᚱ ᚠ‍ᚠᚫᛚᛡᚣ‍ᚹᛉ ᚹᛁᛚ ᛗᛖ‍ᛡᛣ cits ᚢᛈᛞᛖ‍ᛡᛏ ᚠᚫᛋᛏᛟ‍ᚱ.\nREALTIME ᚹᛁᛚ ᚱᛁᛗᚣ‍ᚹᚠ‍ᚠ ᚦ ᛣᚫᛋ‍ᚳ ᛁᚾᛏᚫ‍ᛡᛟ‍ᚱᛚᛄ,\n ᛗᛖ‍ᛡᛣᛁᛝ ᚫ‍ᛡᛏᛟᛗᛉ ᚳᛖᛣ ᚠ cits ᛖᚠ‍ᚠᚱᛄ ᚠᚱᛖ‍ᛡᛗ.",
     "config.citresewn.cache_ms.ticks.0": "REALTIME",
     "config.citresewn.cache_ms.ticks.1": "ᛖᚠ‍ᚠᚱᛄ ᛏᛁᛣ",
-    "config.citresewn.cache_ms.ticks.any": "ᛖᚠ‍ᚠᚱᛄ %ᛖᛋ ᛏᛁᛣᛋ",
+    "config.citresewn.cache_ms.ticks.any": "ᛖᚠ‍ᚠᚱᛄ %s ᛏᛁᛣᛋ",
     "pack.incompatible.broken_paths": "(ᛣᛟᚾᛏᛖ‍ᛡᚾᛉ ᛒᚱᚩ‍ᚹᛣᛟᚾ ᛈᚫᚦᛉ)",
     "pack.incompatible.confirm.broken_paths": "ᚦᛁᛋ ᛈᚫᛣ ᛣᛟᚾᛏᛖ‍ᛡᚾᛉ ᛒᚱᚩ‍ᚹᛣᛟᚾ ᛈᚫᚦᛉ ᚾ ᛋᛟᛈᚩ‍ᚱᛏ ᚠ ᛁᛏ ᛗᛖ‍ᛡ ᛒᛇ ᛞᚱᚩᛈᛏ ᛁᚾ ᚦ ᚠᛡᚣ‍ᚹᚳᛟ‍ᚱ. ᛣᚩᚾᛏᚫᛣᛏ ᛈᚫᛣ ᚩ‍ᚩᚦᛟ‍ᚱ ᛏ ᚱᛁᛗᚣ‍ᚹᚠ‍ᚠ ᚦᛁᛋ ᚹᚩ‍ᚱᚾᛁᛝ. (~ CIT Resewn)"
 }

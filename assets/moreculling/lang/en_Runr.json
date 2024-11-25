@@ -6,9 +6,9 @@
     "moreculling.config.option.cloudCulling": "ᛣᛚᚫ‍ᚹᛞ ᛣᚢᛚᛁᛝ",
     "moreculling.config.option.cloudCulling.tooltip": "ᚳᛖ‍ᛡᚾᚷᛁᛝ ᚦ opengl ᚹᛁᚾᛞᛁᛝ ᚩ‍ᚱᛞᛟ‍ᚱ ᛏ ᛟᛈᛚᚫ‍ᛡ ᚠᛖ‍ᛡᛋ ᛣᚢᛚᛁᛝ",
     "moreculling.config.option.signTextCulling": "ᛋᚫ‍ᛡᚾ ᛏᛖᛣᛋᛏ ᛣᚢᛚᛁᛝ",
-    "moreculling.config.option.signTextCulling.tooltip": "ᛣᚢᛚᛉ ᛋᚫ‍ᛡᚾ ᛏᛖᛣᛋᛏ ᛋᚩ‍ᚹ ᚦᚫᛏ ᛁᛏ ᚹᚩ‍ᚹᚾᛏ ᚱᛖᚾᛞᛟ‍ᚱ ᚹᛖᚾ ᛡᚣ‍ᚹ ᛣᚫᚾ'ᛏᛇ ᛋᛇ ᛁᛏ ᛁᚾ ᛋᚢᛗ ᛣᛖ‍ᛡᛋᛟᛉ",
-    "moreculling.config.option.rainCulling": "ᚱᛖ‍ᛡᚾ/ᛋᚾᚩ‍ᚹ ᛣᚢᛚᛁᛝ",
-    "moreculling.config.option.rainCulling.tooltip": "ᛞᚢᛉ frustum ᛣᚢᛚᛁᛝ ᚩᚾ ᚱᛖ‍ᛡᚾ/ᛋᚾᚩ‍ᚹ",
+    "moreculling.config.option.signTextCulling.tooltip": "ᛣᚢᛚᛉ ᛋᚫ‍ᛡᚾ ᛏᛖᛣᛋᛏ ᛋᚩ‍ᚹ ᚦᚫᛏ ᛁᛏ ᚹᚩ‍ᚹᚾᛏ ᚱᛖᚾᛞᛟ‍ᚱ ᚹᛖᚾ ᛡᚣ‍ᚹ can't ᛋᛇ ᛁᛏ ᛁᚾ ᛋᚢᛗ ᛣᛖ‍ᛡᛋᛟᛉ",
+    "moreculling.config.option.rainCulling": "ᚱᛖ‍ᛡᚾ/Snow ᛣᚢᛚᛁᛝ",
+    "moreculling.config.option.rainCulling.tooltip": "ᛞᚢᛉ frustum ᛣᚢᛚᛁᛝ ᚩᚾ ᚱᛖ‍ᛡᚾ/Snow",
     "moreculling.config.option.beaconBeamCulling": "ᛒᛇᛣᛟᚾ ᛒᛇᛗ ᛣᚢᛚᛁᛝ",
     "moreculling.config.option.beaconBeamCulling.tooltip": "ᛞᚢᛉ frustum ᛣᚢᛚᛁᛝ ᚩᚾ ᛒᛇᛣᛟᚾ ᛒᛇᛗᛉ",
     "moreculling.config.option.entityModelCulling": "ᛖᚾᛏᛁᛏᛄ ᛗᚩᛞᛟᛚ ᛣᚢᛚᛁᛝ",
@@ -31,7 +31,7 @@
     "moreculling.config.option.leavesCulling.tooltip": "ᚳᛖ‍ᛡᚾᚷ ᚦ ᛏᚫ‍ᛡᛈ ᚠ‍ᚠ ᛣᚢᛚᛁᛝ ᛡᚣ‍ᚹᛉᛞ ᚠ ᛚᛇᚠ‍ᚠᛉ",
     "moreculling.config.option.leavesCullingAmount": "ᛚᛇᚠ‍ᚠᛉ ᛣᚢᛚᛁᛝ ᛟᛗᚫ‍ᚹᚾᛏ",
     "moreculling.config.option.leavesCullingAmount.tooltip": "ᚳᛖ‍ᛡᚾᚷ ᚻᚫ‍ᚹ ᛗᚢᚳ ᛚᛇᚠ‍ᚠᛉ ᛋ‍ᚳᚣᛞ ᚳᛖᛣ ᚠ ᛞᛖᛈᚦ-ᛒᛖ‍ᛡᛋᛏ ᛣᚢᛚᛁᛝ. ᛚᚩ‍ᚹᛟ‍ᚱ ᛁᛉ ᚠᚫᛋᛏᛟ‍ᚱ!",
-    "moreculling.config.option.mangroveOnly": "ᚹᛁᛚ ᚩ‍ᚹᚾᛚᛄ ᛣᚢᛚ ᛗᚫᛝᚸᚱᚩ‍ᚹᚠ‍ᚠ ᚱᚣ‍ᚹᛏᛋ ᚹᛖᚾ ᛡᚣ‍ᚹᛉᛁᛝ: %ᛖᛋ",
+    "moreculling.config.option.mangroveOnly": "ᚹᛁᛚ ᚩ‍ᚹᚾᛚᛄ ᛣᚢᛚ ᛗᚫᛝᚸᚱᚩ‍ᚹᚠ‍ᚠ ᚱᚣ‍ᚹᛏᛋ ᚹᛖᚾ ᛡᚣ‍ᚹᛉᛁᛝ: %s",
     "moreculling.config.option.includeMangroveRoots": "ᛁᚾᛣᛚᚣ‍ᚹᛞ ᛗᚫᛝᚸᚱᚩ‍ᚹᚠ‍ᚠ ᚱᚣ‍ᚹᛏᛋ",
     "moreculling.config.option.includeMangroveRoots.tooltip": "ᛁᚠ ᛗᚫᛝᚸᚱᚩ‍ᚹᚠ‍ᚠ ᚱᚣ‍ᚹᛏᛋ ᛋ‍ᚳᚣᛞ ᚩ‍ᚩᛚᛋᚩ‍ᚹ ᛒᛇ ᛣᚢᛚᛞ ᛡᚣ‍ᚹᛉᛁᛝ ᚦ ᛋᛖ‍ᛡᛗ ᚹᛖ‍ᛡ. BlockState ᛞᚢᛉ ᚾᚩᛏ ᚹᚢ‍ᚱᛣ!",
     "moreculling.config.option.powderSnowCulling": "ᛈᚫ‍ᚹᛞᛟ‍ᚱ ᛋᚾᚩ‍ᚹ ᛣᚢᛚᛁᛝ",
@@ -47,5 +47,5 @@
     "moreculling.config.options.random": "ᚱᚫᚾᛞᛟᛗ",
     "moreculling.config.options.vertical": "ᚠ‍ᚠᚢ‍ᚱᛏᛁᛣᛟᛚ",
     "moreculling.config.resetCache": "ᚱᛇᛋᛖᛏ ᛣᚫᛋ‍ᚳ",
-    "moreculling.config.optionDisabled": "ᚦᛁᛋ ᚩᛈᛋ‍ᚳᛟᚾ ᛁᛉ ᛞᛁᛋᛖ‍ᛡᛒᛟᛚᛞ ᚹᛖᚾ ᛡᚣ‍ᚹᛉᛁᛝ: %ᛖᛋ"
+    "moreculling.config.optionDisabled": "ᚦᛁᛋ ᚩᛈᛋ‍ᚳᛟᚾ ᛁᛉ ᛞᛁᛋᛖ‍ᛡᛒᛟᛚᛞ ᚹᛖᚾ ᛡᚣ‍ᚹᛉᛁᛝ: %s"
 }
