@@ -6,7 +6,7 @@
     "moreculling.config.option.cloudCulling": "ᛣᛚᚫ‍ᚹᛞ ᛣᚢᛚᛁᛝ",
     "moreculling.config.option.cloudCulling.tooltip": "ᚳᛖ‍ᛡᚾᚷᛁᛝ ᚦ opengl ᚹᛁᚾᛞᛁᛝ ᚩ‍ᚱᛞᛟ‍ᚱ ᛏ ᛟᛈᛚᚫ‍ᛡ ᚠᛖ‍ᛡᛋ ᛣᚢᛚᛁᛝ",
     "moreculling.config.option.signTextCulling": "ᛋᚫ‍ᛡᚾ ᛏᛖᛣᛋᛏ ᛣᚢᛚᛁᛝ",
-    "moreculling.config.option.signTextCulling.tooltip": "ᛣᚢᛚᛉ ᛋᚫ‍ᛡᚾ ᛏᛖᛣᛋᛏ ᛋᚩ‍ᚹ ᚦᚫᛏ ᛁᛏ ᚹᚩ‍ᚹᚾᛏ ᚱᛖᚾᛞᛟ‍ᚱ ᚹᛖᚾ ᛡᚣ‍ᚹ can't ᛋᛇ ᛁᛏ ᛁᚾ ᛋᚢᛗ ᛣᛖ‍ᛡᛋᛟᛉ",
+    "moreculling.config.option.signTextCulling.tooltip": "ᛣᚢᛚᛉ ᛋᚫ‍ᛡᚾ ᛏᛖᛣᛋᛏ ᛋᚩ‍ᚹ ᚦᚫᛏ ᛁᛏ ᚹᚩ‍ᚹᚾᛏ ᚱᛖᚾᛞᛟ‍ᚱ ᚹᛖᚾ ᛡᚣ‍ᚹ ᛣᚫᚾᛏ ᛋᛇ ᛁᛏ ᛁᚾ ᛋᚢᛗ ᛣᛖ‍ᛡᛋᛟᛉ",
     "moreculling.config.option.rainCulling": "ᚱᛖ‍ᛡᚾ/Snow ᛣᚢᛚᛁᛝ",
     "moreculling.config.option.rainCulling.tooltip": "ᛞᚢᛉ frustum ᛣᚢᛚᛁᛝ ᚩᚾ ᚱᛖ‍ᛡᚾ/Snow",
     "moreculling.config.option.beaconBeamCulling": "ᛒᛇᛣᛟᚾ ᛒᛇᛗ ᛣᚢᛚᛁᛝ",

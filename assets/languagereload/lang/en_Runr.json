@@ -11,7 +11,7 @@
     "debug.reload_languages.help": "F3 + ᚷᛖ‍ᛡ = Reload ᛚᚫᛝᚸᚹᛁᚷᛟᛉ (ᛋ‍ᚳᛁᚠᛏ ᛏ ᛋᚫ‍ᛡᛣᛟᛚ ᛚᚫᛝᚸᚹᛁᚷᛟᛉ)",
     "debug.reload_languages.message": "Reloaded ᛚᚫᛝᚸᚹᛁᚷᛟᛉ",
     "debug.reload_languages.switch.success": "ᛋᛖᛏ ᛚᚫᛝᚸᚹᛁᚷ ᛏ %s",
-    "debug.reload_languages.switch.failure": "Couldn't ᛋᚫ‍ᛡᛣᛟᛚ ᛚᚫᛝᚸᚹᛁᚷᛟᛉ. ᛋᚹᛁᚳ ᛏ ᛟᚾᚢᚦᛟ‍ᚱ ᛚᚫᛝᚸᚹᛁᚷ ᛁᚾ ᚦ ᛋᛖᛏᛁᛝᛉ ᚾ ᛏᚱᚫ‍ᛡ ᛟᚸᛖᚾ",
+    "debug.reload_languages.switch.failure": "ᛣᚣᛞᛟᚾᛏ ᛋᚫ‍ᛡᛣᛟᛚ ᛚᚫᛝᚸᚹᛁᚷᛟᛉ. ᛋᚹᛁᚳ ᛏ ᛟᚾᚢᚦᛟ‍ᚱ ᛚᚫᛝᚸᚹᛁᚷ ᛁᚾ ᚦ ᛋᛖᛏᛁᛝᛉ ᚾ ᛏᚱᚫ‍ᛡ ᛟᚸᛖᚾ",
     "modmenu.summaryTranslation.languagereload": "ᚱᛁᛞᛡᚣ‍ᚹᛋᛟᛉ ᛚᚩ‍ᚹᛞ ᛏᚫ‍ᛡᛗᛉ ᚾ ᚫᛞᛉ fallbacks ᚠ ᛚᚫᛝᚸᚹᛁᚷᛟᛉ.",
     "modmenu.descriptionTranslation.languagereload": "ᛋᛈᛇᛞᛉ ᚢᛈ ᛚᚫᛝᚸᚹᛁᚷ ᛋᚹᛁᚳᛁᛝ, ᛁᚾᛏᚱᛟᛞᛡᚣ‍ᚹᛋᛟᛉ ᛟ ᛋᚢ‍ᚱᚳ ᛒᚩᛣᛋ ᚾ ᛗᚢᛚᛏᛄ-ᛋᛁᛚᛖᛣᛋ‍ᚳᛟᚾ ᛁᚾ ᚦ ᛚᚫᛝᚸᚹᛁᚷ ᛗᛖᚾᛡᚣ‍ᚹ, ᛗᛖ‍ᛡᛣᛋ ᚫ‍ᛡᛏᛟᛗ ᛋᚢ‍ᚱᚳ multilingual, ᚫᛞᛉ ᛞᛇᛒᚢᚸ ᚠᛇᚳᛟ‍ᚱᛉ ᛏ ᛋᚫ‍ᛡᛣᛟᛚ ᛚᚫᛝᚸᚹᛁᚷᛟᛉ ᚹᛁᚦ ᛋ‍ᚳᛁᚠᛏ + F3 + ᚷᛖ‍ᛡ ᚾ ᛏ reload ᚦᛖᛗ ᚹᛁᚦ F3 + ᚷᛖ‍ᛡ."
 }

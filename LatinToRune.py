@@ -2,7 +2,7 @@ from pathlib import Path
 
 import json
 import pandas as pd
-import re
+import regex
 
 assetsPath = Path("./assets")
 dataPath = Path("./data")
@@ -10,13 +10,10 @@ dataPath = Path("./data")
 runePath = dataPath / "runelex.tsv"
 
 # Load rune dictionary in memory using a panda frame
-runeTableHeaderNames = ["Latin", "Futhorc", "Shavian", "IPA", "POS"]
-
 runeTable = pd.read_table(
     runePath,
     index_col=0,
-    header=None, 
-    thousands=",",
+    header=None,
     dtype=str
     )
 
@@ -33,6 +30,8 @@ runeSeries = runeSeries.rename_axis("Latin")
 languages =  list(assetsPath.glob("**/**/lang/*.json"))
 
 # iterate through each file, performing data manipulation operations on each
+matchesList = []
+
 for langaugeFilePath in languages:
     with open(langaugeFilePath.as_posix(), mode='r+') as langaugeFile:
         languageJson = json.load(langaugeFile)
@@ -40,7 +39,17 @@ for langaugeFilePath in languages:
         # for every key value pair
         for key, value in languageJson.items():
             replaceValue = value
-            words = set(re.findall(r'(?<!\$|\%|\'|@|/)\b[A-Za-z]+\b(?!\')', value))
+            
+            pairWords = regex.findall(
+                r'((?<!\$|\%|\'|@|/)\m[A-Za-z]+\M(?!\'))|(\m[A-Za-z]*\'[A-Za-z]*\M)', 
+                value
+                )
+            words = set()
+            for word1, word2 in pairWords:
+                words.add(word1)
+                words.add(word2)
+
+            matchesList.append(len(words))
 
             # check each word
             for word in words:
@@ -54,8 +63,11 @@ for langaugeFilePath in languages:
                 
                 # and replace if runic alternative is found
                 if replaceWord is not None:
-                    matchRegex = r'\b' + re.escape(word) + r'\b'
-                    replaceValue = re.sub(matchRegex, replaceWord, replaceValue)
+                    matchRegex = r'\b' + regex.escape(word) + r'\b'
+                    replaceValue = regex.sub(
+                        matchRegex, 
+                        replaceWord, 
+                        replaceValue)
 
 
 
@@ -70,6 +82,7 @@ for langaugeFilePath in languages:
         with open(newPath, "w", encoding='utf8') as output:
             json.dump(languageJson, output, ensure_ascii=False, indent=4)
 
+print(sum(matchesList), "matches")
 
 # for key, value in languageJson.items():
 #    print(key, value)
