@@ -5,6 +5,7 @@
 
 # User-specific files
 /assets/*/lang/en_us.json
+/data/mod_folder/**
 *.rsuser
 *.suo
 *.user
